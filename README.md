@@ -10,7 +10,7 @@ Build the back end for an e-commerce site. You’ll take a working Express.js AP
 
 <br> <!-- Double line break for creating a line break -->
 
-<p align="center"><a href="https://drive.google.com/file/d/1gqGpHIOuZ_ieoGBvdGDN3ekd1pcx5tN5/view">CLICK HERE FOR THE WALKTHROUGH</a>.</p>
+<p align="center"><a href="XXX">CLICK HERE FOR THE WALKTHROUGH</a>.</p>
 
 ## 💻 Installation
 
