@@ -11,7 +11,7 @@ it to use Sequelize to interact with a MySQL database.
 
 <br> <!-- Double line break for creating a line break -->
 
-<p align="center"><a href="XXX">CLICK HERE FOR THE WALKTHROUGH</a>.</p>
+<p align="center"><a href="XXX">Still Troubleshooting</a>.</p>
 
 ## 💻 Installation
 
@@ -49,7 +49,7 @@ GIVEN a functional Express.js API:
 ## ⚙️ Testing
 
 ```sh
-
+It is still under testing.
 ```
 
 ## 🤝 Contributors
