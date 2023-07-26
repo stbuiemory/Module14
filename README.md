@@ -11,7 +11,7 @@ it to use Sequelize to interact with a MySQL database.
 
 <br> <!-- Double line break for creating a line break -->
 
-<p align="center"><a href="XXX">Still Troubleshooting</a>.</p>
+<p align="center"><a href="https://drive.google.com/file/d/1EWv3YS6X4hN0o3BNdxHSgUPdq88KuKXA/view">Still Troubleshooting but here's how far I got...</a>.</p>
 
 ## 💻 Installation
 
