@@ -18,6 +18,15 @@ it to use Sequelize to interact with a MySQL database.
 ```sh
 We were given a starter code and asked to create the back end and video walk-through.
 
+Steps:  
+ 1.  npm init
+ 2.  npm i mysql2 (then do the same for sequelize, express, nodemon, and dotenv)
+ 3.  mysql -u root -p (enter password)
+ 4.  source db/schema.sql, then exit
+ 5.  npm run seeds
+ 6.  npm start
+ 7.  Open Insomnia
+
 ```
 ## 🎬 Usage
 
@@ -49,7 +58,7 @@ GIVEN a functional Express.js API:
 ## ⚙️ Testing
 
 ```sh
-App works as intended.
+App works as intended. 
 ```
 
 ## 🤝 Contributors
