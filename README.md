@@ -11,12 +11,12 @@ it to use Sequelize to interact with a MySQL database.
 
 <br> <!-- Double line break for creating a line break -->
 
-<p align="center"><a href="https://drive.google.com/file/d/1EWv3YS6X4hN0o3BNdxHSgUPdq88KuKXA/view">Still Troubleshooting but here's how far I got...</a>.</p>
+<p align="center"><a href="https://drive.google.com/file/d/1qkchRZIb1Jpz0M96iI2jxVvENSqrgDBL/view">Click here for demo</a></p>
 
 ## 💻 Installation
 
 ```sh
-We were given a starter code and asked to create the back end and create video walk-through
+We were given a starter code and asked to create the back end and video walk-through.
 
 ```
 ## 🎬 Usage
@@ -49,7 +49,7 @@ GIVEN a functional Express.js API:
 ## ⚙️ Testing
 
 ```sh
-It is still under testing.
+App works as intended.
 ```
 
 ## 🤝 Contributors
