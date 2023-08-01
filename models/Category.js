@@ -11,22 +11,22 @@ Category.init(
       type: DataTypes.INTEGER,
       primaryKey: true,
       autoIncrement: true,
+      allowNull: false
     },
-    name: {
+    category_name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
-    description: {
-      type: DataTypes.TEXT,
-      allowNull: true,
-    },
-    imageUrl: {
-      type: DataTypes.STRING,
-      allowNull: true,
-      validate: {
-        isUrl: true,
-      },
-    },
+    // description: {
+    //   type: DataTypes.TEXT,
+    //   allowNull: true,
+    // },
+    // imageUrl: {
+    //   type: DataTypes.STRING,
+    //   allowNull: true,
+    //   validate: {
+    //     isUrl: true,
+    //   },
   },
   {
     sequelize,
